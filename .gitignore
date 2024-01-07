@@ -1,0 +1,17 @@
+# Ignore compiled Go binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.zip
+*.ofx
+
+# Ignore Go build output
+/bin/
+/pkg/
+/out/
+/unzipped/
+/downloads/
+
+# Ignore .env file
+.env
